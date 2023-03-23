@@ -33,7 +33,7 @@ The usage can vary depending on which assistive technology tool is being used. Y
 Many but not all assistive technology tools have support for the use of an aria label, which was used to make the background image accessible. However, all the alt attributes for the other images should work interchangably with your tool of choice.
 ## Deployed Site
 
-**[Live URL here: _https://github.com/jebulger/module-1-challenge_](https://github.com/jebulger/module-1-challenge)**
+**[Live URL here: _https://jebulger.github.io/module-1-challenge/_](https://jebulger.github.io/module-1-challenge/)**
 
 >![](/Assets/01-challenge-final-img.png)
 >![](/Assets/01-challenge-final-2.png)
